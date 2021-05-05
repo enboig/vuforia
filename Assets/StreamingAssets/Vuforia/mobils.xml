@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="third" size="0.060000 0.017002" />
+    <ImageTarget name="second" size="0.060000 0.017002" />
+    <ImageTarget name="first" size="0.060000 0.017002" />
     <ImageTarget name="marker2" size="0.060000 0.020816" />
     <ImageTarget name="mosca" size="0.025000 0.025663" />
     <ImageTarget name="drac_maria" size="0.050000 0.024384" />
